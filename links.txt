@@ -1,0 +1,8 @@
+https://sfsymbols.com/
+https://github.com/aldst/AlaraIOSSwiftUI
+https://github.com/luisgermr/Nu34life_ios
+https://github.com/SDWebImage/SDWebImage
+https://github.com/SwiftyJSON/SwiftyJSON
+https://github.com/SDWebImage/SDWebImageSwiftUI
+https://github.com/Alamofire/Alamofire
+https://github.com/myyangel/Moviles.git
